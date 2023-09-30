@@ -1,3 +1,5 @@
 # Table of contents
-* [Chapter 1. Overview](<README (1).md>)
+
+* [README](README.md)
+* [Chapter 1. Overview](chapter-1.-overview.md)
 * [Chapter 2. Data Organization and Examination](page-1.md)
