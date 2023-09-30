@@ -1,5 +1,2 @@
-# Table of contents
-
-* [README](README.md)
-* [Chapter 1. Overview](chapter-1.-overview.md)
-* [Chapter 2. Data Organization and Examination](page-1.md)
+Python Data Analysis: Core Methods Exploration & Interpretation
+Python数据分析指南: 核心方法探索与解读
